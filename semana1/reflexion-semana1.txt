@@ -1,0 +1,16 @@
+Pregunta 4
+
+¿Qué relación encuentras entre el uso responsable de la información en internet,
+la participación ciudadana y la organización del trabajo técnico con herramientas
+como Git? 
+
+Yo lo veo así: todo tiene que ver con responsabilidad y orden.
+Cuando usamos bien la información en internet, evitamos compartir cosas falsas y de esta manera aportamos mejor a la sociedad.
+Eso se conecta con la participación ciudadana, porque una persona informada opina mejor y toma decisiones más conscientes.
+Y con herramientas como Git, La organización del trabajo es clave porque permite que varias personas trabajen en un mismo proyecto sin desorden.
+Cada quien puede hacer cambios sin dañar el trabajo de los demás, y todo queda guardado paso a paso.
+Git ayuda a tener control, saber quién hizo qué y poder corregir errores fácilmente.
+Su papel fundamental es mantener el proyecto organizado, seguro y colaborativo.
+Además, facilita la comunicación del equipo, porque todos siguen una misma forma de trabajar.
+En pocas palabras, Git es como la base que mantiene todo claro y funcionando bien dentro de un equipo técnico
+para concluir, en los tres casos se trata de actuar con responsabilidad, colaborar bien y manejar la información de forma organizada
