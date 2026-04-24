@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Formulario Comunitario</title>
+
+<style>
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+background:#f4f6f8;
+margin:0;
+padding:0;
+}
+
+header{
+background:#2c6ed5;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+.container{
+max-width:700px;
+margin:40px auto;
+background:white;
+padding:30px;
+border-radius:8px;
+box-shadow:0px 4px 10px rgba(0,0,0,0.1);
+}
+
+h2{
+margin-top:0;
+}
+
+label{
+display:block;
+margin-top:15px;
+font-weight:bold;
+}
+
+input, textarea, select{
+width:100%;
+padding:10px;
+margin-top:5px;
+border-radius:5px;
+border:1px solid #ccc;
+font-size:14px;
+}
+
+button{
+margin-top:20px;
+background:#2c6ed5;
+color:white;
+border:none;
+padding:12px 20px;
+font-size:16px;
+border-radius:5px;
+cursor:pointer;
+}
+
+button:hover{
+background:#1d4ea3;
+}
+
+footer{
+text-align:center;
+margin-top:30px;
+font-size:12px;
+color:#666;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Participación Comunitaria</h1>
+<p>Comparte necesidades o propuestas para tu comunidad</p>
+
+</header>
+
+<div class="container">
+
+<h2>Formulario comunitario</h2>
+
+<p>
+Este formulario permite recoger información sobre necesidades,
+problemas o propuestas de la comunidad para mejorar los espacios
+de participación ciudadana.
+</p>
+
+<form>
+
+<label>Nombre</label>
+<input type="text" placeholder="Escribe tu nombre">
+
+<label>Comunidad o barrio</label>
+<input type="text" placeholder="Nombre del barrio o comunidad">
+
+<label>Tipo de información</label>
+<select>
+<option>Necesidad de la comunidad</option>
+<option>Propuesta de mejora</option>
+<option>Reporte de problema</option>
+<option>Actividad comunitaria</option>
+</select>
+
+<label>Descripción</label>
+<textarea rows="5" placeholder="Describe la situación o propuesta"></textarea>
+
+<label>Correo electrónico (opcional)</label>
+<input type="email" placeholder="correo@ejemplo.com">
+
+<button type="submit">Enviar información</button>
+
+</form>
+
+</div>
+
+<footer>
+
+Proyecto de participación comunitaria
+
+</footer>
+
+</body>
+
+</html>
