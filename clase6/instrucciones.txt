@@ -1,0 +1,41 @@
+Instrucciones — clase04_PPP
+============================
+
+Repositorio: https://github.com/gabrielrincon/clase04_PPP.git
+
+Objetivo: clonar el repositorio, crear un archivo con tu nombre y registrar el cambio con commit (y subirlo al remoto).
+
+Requisitos
+----------
+- Tener Git instalado en tu computadora.
+- Tener una cuenta en GitHub
+
+Pasos
+-----
+
+1) Clonar el repositorio (elige una carpeta donde quieras trabajar):
+
+   git clone https://github.com/gabrielrincon/clase04_PPP.git
+
+2) Entrar al proyecto:
+
+   cd clase04_PPP o abrir con Cursor o Visual Studio la carpeta clase04_PPP.
+
+3) Crear un archivo con tu nombre. Por ejemplo, si te llamas Ana López, puedes crear un archivo llamado ana_lopez.txt (sin espacios en el nombre del archivo) o el nombre que pida el profesor. Puedes usar el editor de texto o:
+
+   instrucciones para la terminal.
+   echo "Hola, soy Ana López." > ana_lopez.txt
+
+   (Cambia el nombre del archivo y el texto según corresponda.)
+
+   instrucciones para Cursor. Clic derecho y crear archivo.
+
+4) Añadir el archivo al área de preparación y hacer commit:
+
+   git add nombre_de_tu_archivo.txt
+   git commit -m "Agrego archivo con mi nombre"
+
+Notas
+-----
+- Si git push pide usuario y contraseña: en GitHub la "contraseña" suele ser un token de acceso personal (PAT), no la contraseña de la cuenta. Sigue la guía de GitHub para crear un token si hace falta.
+- Si no tienes permiso de escritura en el repo, coordina con el docente o usa fork + pull request según las indicaciones del curso.

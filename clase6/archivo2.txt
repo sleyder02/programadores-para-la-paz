@@ -1,0 +1,14 @@
+1. git init
+   Crea un repositorio Git nuevo en la carpeta actual (genera el directorio .git). Es el primer paso para versionar un proyecto desde cero.
+
+2. git add
+   Añade cambios al área de preparación (staging): archivos nuevos, modificados o eliminados que quieres incluir en el próximo commit.
+
+3. git commit
+   Guarda una instantánea de los cambios ya preparados con add, con un mensaje que describe qué se hizo. Forma el historial del proyecto.
+
+4. git status
+   Muestra el estado del repositorio: rama actual, archivos modificados, sin seguimiento y qué está preparado para commit.
+
+5. git push
+   Envía tus commits locales al repositorio remoto (por ejemplo en GitHub o GitLab), para compartir el trabajo o respaldarlo.

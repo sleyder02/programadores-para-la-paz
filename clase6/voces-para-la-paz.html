@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jóvenes construyendo caminos de paz</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+  <style>
+    
+    :root {
+      --mar: #ffffff;
+      --mar-suave: #923659;
+      --arena: #faf7f2;
+      --blanco: #ffffff;
+      --texto: #1c2826;
+      --texto-suave: #ffffff;
+      --borde: rgba(13, 79, 76, 0.12);
+      --acento-linea: #a43db8;
+      --sombra: 0 8px 32px rgba(13, 79, 76, 0.08);
+      --sombra-caja: 0 2px 12px rgba(13, 79, 76, 0.06);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+      font-size: 1.05rem;
+      line-height: 1.65;
+      color: var(--texto);
+      background:
+        radial-gradient(ellipse 120% 80% at 50% -20%, rgba(61, 184, 168, 0.18), transparent 55%),
+        radial-gradient(ellipse 80% 50% at 100% 50%, rgba(13, 79, 76, 0.06), transparent 45%),
+        radial-gradient(ellipse 60% 40% at 0% 80%, rgba(250, 247, 242, 0.9), transparent 50%),
+        linear-gradient(165deg, #e6f2f0 0%, var(--arena) 42%, #eef1f6 100%);
+      background-attachment: fixed;
+      background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,100)),
+              url("img/imgfondo.png");
+  background-size: cover;
+  background-position: center;
+    }
+
+    .pagina {
+      max-width: 38rem;
+      margin: 0 auto;
+      padding: 2.25rem 1.25rem 3rem;
+    }
+
+    .encabezado {
+      text-align: center;
+      margin-bottom: 2.5rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--borde);
+    }
+
+    .encabezado h1 {
+      font-family: "Outfit", system-ui, sans-serif;
+      font-weight: 700;
+      font-size: clamp(1.85rem, 5vw, 2.35rem);
+      letter-spacing: -0.02em;
+      line-height: 1.15;
+      margin: 0 0 0.5rem 0;
+      color: var(--mar);
+      text-wrap: balance;
+    }
+
+    .encabezado .subtitulo {
+      font-family: "Outfit", system-ui, sans-serif;
+      font-weight: 500;
+      font-size: 0.95rem;
+      color: var(--texto-suave);
+      margin: 0;
+      max-width: 28ch;
+      margin-inline: auto;
+    }
+
+    .encabezado .decor {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      margin-top: 1.25rem;
+    }
+
+    .encabezado .decor span {
+      width: 2.5rem;
+      height: 3px;
+      border-radius: 99px;
+      background: linear-gradient(90deg, transparent, var(--acento-linea), transparent);
+    }
+
+    .encabezado .decor::before,
+    .encabezado .decor::after {
+      content: "";
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--mar-suave);
+      opacity: 0.45;
+    }
+
+    .noticias {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    .plantilla {
+      background: var(--blanco);
+      border-radius: 18px;
+      padding: 1.75rem 1.5rem 1.5rem;
+      box-shadow: var(--sombra);
+      border: 1px solid var(--borde);
+    }
+
+    .plantilla > .titulo-noticia {
+      font-family: "Outfit", system-ui, sans-serif;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--blanco);
+      background: linear-gradient(135deg, var(--mar) 0%, var(--mar-suave) 100%);
+      margin: -0.25rem 0 1.35rem 0;
+      padding: 0.45rem 0.85rem;
+      border-radius: 8px;
+      display: inline-block;
+      box-shadow: 0 2px 8px rgba(13, 79, 76, 0.2);
+    }
+
+    .plantilla > section {
+      margin-bottom: 1.35rem;
+    }
+
+    .plantilla > section:last-child {
+      margin-bottom: 0;
+    }
+
+    .plantilla h3 {
+      font-family: "Outfit", system-ui, sans-serif;
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--mar-suave);
+      margin: 0 0 0.45rem 0;
+    }
+
+    .caja {
+      background: linear-gradient(180deg, #fbfcfb 0%, #f5f8f7 100%);
+      border: 1px solid var(--borde);
+      border-left: 4px solid var(--acento-linea);
+      border-radius: 12px;
+      padding: 1rem 1.1rem;
+      box-shadow: var(--sombra-caja);
+    }
+
+    .caja p {
+      margin: 0;
+    }
+
+    .caja ul {
+      margin: 0;
+      padding-left: 1.2rem;
+    }
+
+    .caja li {
+      margin-bottom: 0.4rem;
+      padding-left: 0.15rem;
+    }
+
+    .caja li:last-child {
+      margin-bottom: 0;
+    }
+
+    .caja li::marker {
+      color: var(--mar-suave);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="pagina">
+    <header class="encabezado">
+      <h1>Ecos de Paz</h1>
+      <p class="subtitulo">Tres noticias para completar: título, mensaje y compromisos.</p>
+      <div class="decor" aria-hidden="true"><span></span></div>
+    </header>
+
+    <main class="noticias">
+
+    <article class="plantilla">
+      <h2 class="titulo-noticia">Noticia 1</h2>
+      <section>
+        <h3>Título</h3>
+        <div class="caja">
+          <!-- Cambia solo la frase titulo1 -->
+          <p>Uso responsable de las redes sociales</p>
+        </div>
+      </section>
+      <section>
+        <h3>Mensaje</h3>
+        <div class="caja">
+          <!-- Cambia solo mensaje1 -->
+          <p>Las redes deben usarse con respeto y responsabilidad para evitar conflictos.</p>
+        </div>
+      </section>
+      <section>
+        <h3>Compromisos</h3>
+        <div class="caja">
+          <!-- Cambia compromisos1a, compromisos1b y compromisos1c -->
+          <ul>
+            <li>Evitar comentarios ofensivos</li>
+            <li>Respetar la opinión de los demás</li>
+            <li>Denunciar contenido inapropiado</li>
+          </ul>
+        </div>
+      </section>
+    </article>
+
+    <article class="plantilla">
+      <h2 class="titulo-noticia">Noticia 2</h2>
+      <section>
+        <h3>Título</h3>
+        <div class="caja">
+          <!-- Cambia solo titulo2 -->
+          <p>Cuidando nuestra identidad digital</p>
+        </div>
+      </section>
+      <section>
+        <h3>Mensaje</h3>
+        <div class="caja">
+          <!-- Cambia solo mensaje2 -->
+          <p>Proteger nuestra información personal es clave para una navegación segura.</p>
+        </div>
+      </section>
+      <section>
+        <h3>Compromisos</h3>
+        <div class="caja">
+          <!-- Cambia compromisos2a, compromisos2b y compromisos2c -->
+          <ul>
+            <li>No compartir datos personales públicamente</li>
+            <li>Usar contraseñas seguras</li>
+            <li>Revisar la privacidad de nuestras cuentas</li>
+          </ul>
+        </div>
+      </section>
+    </article>
+
+    <article class="plantilla">
+      <h2 class="titulo-noticia">Noticia 3</h2>
+      <section>
+        <h3>Título</h3>
+        <div class="caja">
+          <!-- Cambia solo titulo3 -->
+          <p>Verificando la información antes de compartir</p>
+        </div>
+      </section>
+      <section>
+        <h3>Mensaje</h3>
+        <div class="caja">
+          <!-- Cambia solo mensaje3 -->
+          <p>Compartir información verificada ayuda a evitar la desinformación.</p>
+        </div>
+      </section>
+      <section>
+        <h3>Compromisos</h3>
+        <div class="caja">
+          <!-- Cambia compromisos3a, compromisos3b y compromisos3c -->
+          <ul>
+            <li>Revisar la fuente de la noticia</li>
+            <li>Comparar con otros medios confiables</li>
+            <li>Evitar difundir rumores</li>
+          </ul>
+        </div>
+      </section>
+    </article>
+
+    </main>
+  </div>
+  <footer class="footer">
+    <p align="center">© <span id="year"></span> - By Leider Ramos</p>
+  
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+  </footer>
+</body>
+</html>
