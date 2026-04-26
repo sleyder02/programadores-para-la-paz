@@ -81,8 +81,8 @@ color:#666;
 
 <header>
 
-<h1>Participación Comunitaria</h1>
-<p>Comparte necesidades o propuestas para tu comunidad</p>
+<h1>Nuestra voz cuenta en la comunidad</h1>
+<p>Cuéntanos las principales necesidades o propuestas para tu comunidad</p>
 
 </header>
 
@@ -91,9 +91,8 @@ color:#666;
 <h2>Formulario comunitario</h2>
 
 <p>
-Este formulario permite recoger información sobre necesidades,
-problemas o propuestas de la comunidad para mejorar los espacios
-de participación ciudadana.
+    Este formulario es para escucharte: cuéntanos qué necesita tu comunidad
+    y qué ideas tienes para mejorarla.
 </p>
 
 <form>
@@ -110,6 +109,7 @@ de participación ciudadana.
 <option>Propuesta de mejora</option>
 <option>Reporte de problema</option>
 <option>Actividad comunitaria</option>
+<option>Apoyo o ayuda comunitaria</option>
 </select>
 
 <label>Descripción</label>
@@ -125,7 +125,11 @@ de participación ciudadana.
 </div>
 
 <footer>
-
+    <p align="center">© <span id="year"></span> - By Leider Ramos</p>
+  
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
 Proyecto de participación comunitaria
 
 </footer>
