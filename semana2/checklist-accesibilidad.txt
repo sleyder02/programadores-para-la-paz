@@ -1,35 +1,42 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Leider Dvid Ramos Caro
+Fecha: 28/Abril/2026
+Nombre de la rama: leider_ramos
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta:“Nuestra voz cuenta en la comunidad” es claro porque transmite de forma sencilla que el formulario busca escuchar la opinión y participación de las personas.
+Además, es fácil de entender para diferentes edades.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: En el formulario podemos observar que la informacion sera para
+escuchar la opinión y participación de las personas para mejorar su comunidad
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: Sì, con las etiquetas visibles, label podemos observar donde cada persona debe colocar su informacion.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: Sì es una leguaje para personas de 6 años hasta los 70 años de edad.
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta: Con este formulario podemos evidenciar que los datos requeridos son los mas necesarios.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
 Respuesta:
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta:Sí, porque el campo principal está diseñado para que las personas expliquen de manera sencilla un problema de su comunidad
+y propongan una posible solución, facilitando que su mensaje sea claro y útil.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta:Sí, el texto “Participar ahora” es claro y motivador, porque invita directamente a las personas a enviar su información
+y ser parte activa de las soluciones para su comunidad.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta:Sí, porque utiliza textos sencillos, buen tamaño de letra y una estructura organizada que facilita su lectura.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: se mejorario segun respuestas o solicitudes de la comunidad
+
+OBSERVACIÒN: Teniendo en cuenta que pidieron modificar el archivo index.html, ya lo modifique
+y de acuerdo a las solicitudes, respondi las preguntas.

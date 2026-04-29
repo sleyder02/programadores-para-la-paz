@@ -3,17 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Formulario Participa</title>
+  <title>Formulario Comunitario</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  
 
   <main>
     <section class="contenedor">
-      <h1>Formulario Participa</h1>
+      <h1>Nuestra voz cuenta en la comunidad</h1>
 
       <p>
-        Este formulario permite recoger propuestas, ideas o necesidades de la comunidad.
+        Este formulario es para escucharte: cuéntanos qué necesita tu comunidad y qué ideas tienes para mejorarla.
         La información será usada únicamente con fines de participación y organización comunitaria.
       </p>
 
@@ -24,19 +25,30 @@
             type="text" 
             id="nombre" 
             name="nombre" 
-            placeholder="Escribe tu nombre">
+            placeholder="Escribe tu nombre completo">
         </div>
+        <label>Comunidad o barrio</label>
+        <input type="text" id="comunidad" name="comunidad" 
+        placeholder="Nombre del barrio o comunidad"></div>
 
+        <label>Tipo de información</label>
+<select>
+<option>Necesidad de la comunidad</option>
+<option>Propuesta de mejora</option>
+<option>Reporte de problema</option>
+<option>Actividad comunitaria</option>
+<option>Apoyo o ayuda comunitaria</option>
+</select>
         <div class="campo">
-          <label for="propuesta">Propuesta o mensaje</label>
-          <textarea 
+          <label for="propuesta">Descripción de la información</label>
+          <textarea rows="5" 
             id="propuesta" 
             name="propuesta" 
-            placeholder="Escribe tu propuesta para la comunidad"></textarea>
+            placeholder="Describe la situación o propuesta"></textarea>
         </div>
 
         <div class="campo">
-          <label for="contacto">Correo o teléfono de contacto opcional</label>
+          <label for="contacto">Correo o teléfono de contacto (opcional)</label>
           <input 
             type="text" 
             id="contacto" 
@@ -51,10 +63,18 @@
           </label>
         </div>
 
-        <button type="submit">Enviar participación</button>
+        <button type="submit">Participar Ahora</button>
       </form>
     </section>
   </main>
+  <footer>
+    <p align="center">© <span id="year"></span> - By Leider Ramos</p>
+  
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+Proyecto de participación comunitaria
 
+</footer>
 </body>
 </html>
