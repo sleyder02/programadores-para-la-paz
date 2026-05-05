@@ -12,4 +12,4 @@ while (semana <= SemanaDeSeguimiento) {
 }
 
 console.log("seguimiento comunitario finalizado.")
-console.log("Propuestas atendidas:", propuestasAtendidas)
+console.log("Total de propuestas atendidas:", propuestasAtendidas)

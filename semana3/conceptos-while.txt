@@ -1,47 +1,51 @@
 Conceptos básicos de while – Semana 3 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Leider David Ramos Caro
+Fecha:4/mayo/2026
+Nombre de la rama: leider_ramos3
 
 Responde con tus propias palabras.
 
 1. ¿Qué significa repetir instrucciones en programación?
 
-Respuesta:
+Respuesta: Significa ejecutar las mismas instrucciones varias veces, normalmente usando estructuras como bucles,
+para no escribir el mismo código repetidamente.
 
 2. ¿Qué es un ciclo while?
 
-Respuesta:
+Respuesta: WHILE MIENTRAS (Siclo o bucle dando vueltas repitiendo las instrucciones, colocando una condición se repite) sentencia de instrucciones.
+WHILE nos puede bloquear la maquina porque si corriendo hasta llegar al fin del siclo
 
 3. ¿Qué significa la condición dentro de un while?
 
-Respuesta:
+Respuesta: es la regla que se evalúa para decidir si el ciclo sigue ejecutándose o se detiene; mientras sea verdadera, el while continúa.
 
 4. ¿Por qué es importante cambiar una variable dentro del while?
 
-Respuesta:
+Respuesta: si no cambia la condicion el ciclo se repite infinitamente
 
 5. ¿Qué es un ciclo infinito?
 
-Respuesta:
+Respuesta: es aquel que nunca va a parar o se va a detener
 
 6. ¿Qué hace el comando npm run practicar?
 
-Respuesta:
+Respuesta: ejecuta el archivo y nos muestra lo que contiene
 
 7. ¿Dónde está definido el comando practicar?
 
-Respuesta:
+Respuesta: en el archivo package.json
 
 8. ¿Qué diferencia hay entre node archivo.js y npm run practicar?
 
-Respuesta:
+Respuesta: node Archivo.js se ejecuta direntamente el desde la carpeta; y npm run practicar
+se encuntra dento del archivo package.json
 
 9. ¿Cómo puede servir un while para revisar varias fuentes de información?
 
-Respuesta:
+Respuesta: porque las podemos revisar una a una
 
 10. ¿Cómo puede relacionarse un ciclo con el seguimiento de propuestas comunitarias?
 
-Respuesta:
+Respuesta: Se relaciona porque un ciclo repite acciones de forma constante, así como el seguimiento de propuestas implica revisar,
+evaluar y mejorar continuamente.
