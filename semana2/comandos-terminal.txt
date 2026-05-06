@@ -1,0 +1,15 @@
+Crear carpeta de la semana:
+
+Comandos:
+
+mkdir semana2
+cd semana2
+pwd
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+ls
+
+NOTA:
+Dentro de programadores-para-la-paz. estan mis ramas donde e subudi los 
+avances del curso hasta el momento.
