@@ -1,8 +1,8 @@
 Bitácora de comando – Semana 3 Día 4
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Leider David Ramos Caro
+Fecha: 5/mayo/2026
+Nombre de la rama:leider_ramos4
 
 Comando nuevo del día:
 npm run revisar
@@ -11,60 +11,60 @@ Escribe los comandos que usaste durante la práctica.
 
 1. Comando usado para clonar el repositorio:
 
-Respuesta:
+Respuesta:git clone +el repositorioclononado.
 
 2. Comando usado para entrar a la carpeta del proyecto:
 
-Respuesta:
+Respuesta:cd .
 
 3. Comando usado para crear tu rama personal:
 
-Respuesta:
+Respuesta: git checkout -b leider_ramos4
 
 4. Comando usado para verificar la rama:
 
-Respuesta:
+Respuesta:git branch
 
 5. Comando nuevo usado para ejecutar array-basico.js desde package.json:
 
-Respuesta:
+Respuesta:npm run revisar
 
 6. Comando usado para ejecutar for-basico.js:
 
-Respuesta:
+Respuesta:npm run for
 
 7. Comando usado para ejecutar for-of-basico.js:
 
-Respuesta:
+Respuesta:npm run forof
 
 8. Comando usado para ejecutar lista-propuestas.js:
 
-Respuesta:
+Respuesta:npm run propuestas
 
 9. Comando usado para ejecutar revision-mensajes.js:
 
-Respuesta:
+Respuesta:npm run mensajes
 
 10. Comando usado para ejecutar revision-fuentes.js:
 
-Respuesta:
+Respuesta:npm run fuentes
 
 11. Comando usado para ejecutar resumen-comunitario.js:
 
-Respuesta:
+Respuesta:npm run resumen
 
 12. Comando usado para revisar cambios en Git:
 
-Respuesta:
+Respuesta: git status
 
 13. Comando usado para agregar cambios:
 
-Respuesta:
+Respuesta:git add .
 
 14. Comando usado para crear commit:
 
-Respuesta:
+Respuesta:git commit -m "arrays con JavaScript"
 
 15. Comando usado para publicar la rama:
 
-Respuesta:
+Respuesta:git push -u origin leider_ramos4
