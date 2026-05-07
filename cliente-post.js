@@ -1,6 +1,6 @@
 const http = require("http")
 
-const datos = "Propuesta: crear un canal comunitario de información verificada."
+const datos = "Propuesta: publicar avisos comunitarios con lenguaje claro."
 
 const opciones = {
   hostname: "localhost",
