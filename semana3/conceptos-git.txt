@@ -1,0 +1,14 @@
+Pregunta 7 — Explicar conceptos básicos de Git
+
+Abre el archivo conceptos-git.txt y escribe una explicación corta de los siguientes conceptos:
+
+    Repositorio: Es el espacio donde Git almacena los archivos,ramas, carpetas y
+    el historial de cambios de un proyecto.
+
+    Commit: Es un registro o “foto” de los cambios realizados en el proyecto en un
+    momento específico. siempre debemos estar ejecutando el git status para ver modificaciones.
+
+    Push: Es la acción de subir los commits del repositorio local hacia un repositorio
+    remoto como GitHub.
+
+

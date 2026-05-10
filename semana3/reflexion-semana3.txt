@@ -1,0 +1,17 @@
+Pregunta 9 — Reflexión de la semana
+
+En el archivo reflexion-semana3.txt escribe un texto de 8 a 10 líneas respondiendo:  
+
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios
+usando herramientas como Git? 
+
+El uso de herramientas de control de versiones como Git es fundamental
+en el desarrollo de software porque permite mantener un historial detallado
+y reversible de cada modificación realizada en el código. Esto no solo
+facilita la recuperación de versiones anteriores ante errores críticos, sino
+que también optimiza el trabajo colaborativo, evitando que los cambios de un
+programador sobrescriban los de otro. Al centralizar el flujo de trabajo,
+Git ofrece una trazabilidad clara sobre quién hizo qué y por qué, lo que simplifica
+la auditoría y mejora la calidad del producto final. Además, su sistema de ramificaciones
+permite experimentar con nuevas funcionalidades de forma aislada, garantizando que la
+versión principal del proyecto permanezca siempre estable y funcional para el usuario.
