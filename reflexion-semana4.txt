@@ -1,0 +1,17 @@
+Pregunta 9 — Reflexión de la semana
+
+Escribe un texto de 8 a 10 líneas respondiendo la siguiente pregunta:
+
+    ¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas 
+    propias utilizando tecnologías abiertas como Node.js? 
+
+Cuando una comunidad diseña sus propias herramientas con tecnologías abiertas como Node.js, deja de ser una simple espectadora
+del software comercial para convertirse en la autora de su propio destino digital. Esto es vital porque nadie entiende 
+las necesidades, los problemas cotidianos y la identidad de un barrio o un colectivo mejor que sus propios miembros. 
+Al utilizar código abierto, no dependen de licencias costosas ni de decisiones de grandes empresas que buscan el lucro; 
+en su lugar, pueden adaptar la tecnología de forma libre, comunitaria y solidaria. Además, este proceso democratiza el 
+aprendizaje técnico, permitiendo que jóvenes y vecinos se capaciten, colaboren en pie de igualdad y construyan soluciones 
+hechas a la medida de su gente. Por ende, crear software propio es un acto de soberanía y orgullo local, pues 
+demuestra que la tecnología más poderosa no nace en 
+(Silicon Valley), sino de la empatía, la unión y las ganas de 
+transformar el entorno inmediato.
