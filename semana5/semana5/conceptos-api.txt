@@ -1,0 +1,14 @@
+Què hace esta ruta? 
+Por medio de la ruta POST hacemos una peticion al servidor, si se ejecuta correctamente devuelve el estado
+en este caso lo probamos con un archivo JavaScript y devuelve, hola he recivido tu mensaje.
+
+Para qué podría servir en una aplicación comunitaria.
+
+Reporte de Averías o Problemas en el Barrio
+
+    Cómo se aplica: Si un vecino quiere reportar un bache, un poste de luz dañado o un problema de humedad en un espacio común, 
+    necesita una interfaz con alta facilidad de uso.
+
+    Para qué sirve: Un formulario simple con botones grandes e íconos claros permite que un adulto mayor pueda registrar 
+    el problema en segundos. Al aplicar la minimización de datos, la app solo pedirá la ubicación del daño y una foto, sin
+     necesidad de rastrear el nombre completo o el teléfono privado del vecino, protegiendo su privacidad.

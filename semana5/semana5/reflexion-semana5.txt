@@ -1,0 +1,12 @@
+Escribe un texto de 8 a 10 líneas respondiendo la siguiente pregunta:
+
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada? 
+
+En una comunidad, las personas usan diferentes herramientas según su edad o preferencia tecnológica. Las APIs permiten crear un sistema omnicanal: 
+Cómo funciona: Se puede programar una API conectada a un bot de WhatsApp, a un formulario web simple, o a una aplicación móvil.
+El resultado: No importa si una madre de familia reporta una alerta de seguridad por la página web y un adulto mayor lo hace enviando
+un mensaje de texto con un bot; la API recibe ambos datos, los estandariza (les da el mismo formato de fecha, hora
+y categoría) y los guarda organizados en una sola base de datos central.
+
+Sin una API, la información comunitaria es como un grupo de personas gritando en una habitación al mismo tiempo. Con una API, se convierte en una ventanilla 
+organizada donde cada reporte hace fila, se clasifica en la carpeta correcta y se envía de inmediato a quien puede resolverlo.

@@ -1,0 +1,14 @@
+Pregunta 1 — Selección múltiple
+
+¿Qué es una ruta (route) en Express?
+Respuesta: B
+
+Pregunta 2
+Respuesta: B
+
+Pregunta 3
+Respuesta: A
+
+Pregunta 4
+Respuesta: B
+
