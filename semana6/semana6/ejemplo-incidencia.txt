@@ -1,0 +1,4 @@
+{
+  "tipo": "Infraestructura vial",
+  "descripcion": "Los vecinos informan sobre la presencia de un bache profundo en la intersección principal que pone en riesgo a los vehículos."
+}
