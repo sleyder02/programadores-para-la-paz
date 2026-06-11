@@ -1,0 +1,12 @@
+¿Por qué es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica?
+
+Que una comunidad cuente con una plataforma propia para registrar y consultar incidencias es, en el fondo, una forma de
+recuperar el control sobre su propio bienestar. En primer lugar, democratiza la información: cuando un reporte se vuelve
+público y visible para todos, se acaba el misterio sobre qué problemas existen y se evita que las quejas queden
+engavetadas en oficinas distantes. Esto transforma el descontento individual en una fuerza colectiva real, permitiendo
+que los vecinos dejen de sentirse aislados y comiencen a colaborar activamente, ya sea uniendo esfuerzos para reparar
+una luminaria o gestionando soluciones con las autoridades locales con datos verificables en la mano. Además, consultar
+el avance de cada caso genera una transparencia invaluable que reconstruye los lazos de confianza marchitados por la
+burocracia. Al final del día, estas herramientas no se tratan simplemente de tecnología o líneas de código, sino de
+dignidad y empatía; se trata de recordarle a cada miembro del barrio que su voz importa, que su seguridad es una
+prioridad compartida y que juntos tienen el poder de transformar su entorno cotidiano.
