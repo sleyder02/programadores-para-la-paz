@@ -1,0 +1,11 @@
+¿Por qué la seguridad digital es importante para proteger plataformas tecnológicas que usan comunidades o procesos participativos?
+
+La seguridad digital es el pilar que sostiene la confianza de cualquier proceso ciudadano; si las personas sienten
+que su información está expuesta, simplemente dejarán de participar. En las plataformas comunitarias, proteger el
+sistema garantiza que los reportes vecinales no sean manipulados para alterar la realidad de un barrio o silenciar 
+denuncias legítimas. Además, aplicar un uso responsable y maduro de la tecnología evita que la identidad, la ubicación 
+o los datos privados de los vecinos caigan en manos equivocadas, protegiéndolos de posibles represalias o conflictos de 
+convivencia. Cuando se blindan los accesos y se cuida la integridad de la plataforma, se construye un entorno digital 
+verdaderamente democrático y seguro. En última instancia, la ciberseguridad en estos espacios no se reduce a un 
+asunto puramente técnico de servidores y código, sino que es un acto de empatía y cuidado colectivo que transforma la 
+tecnología en un refugio confiable para la transparencia y el bienestar común.

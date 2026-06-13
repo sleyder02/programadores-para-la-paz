@@ -1,0 +1,9 @@
+cat buenas-practicas.txt nos muestra el listo de lo que contiene el archivo dentro, es decir
+proteger contraseñas, no conpartir credenciales y mantener software actualizado.
+
+uname -a whoami nos permite ver el sistema que estamos usando, version del equipo, como, que tipo de win y el nombre del mismo.
+Conocer la información del sistema es vital porque te permite escuchar la "salud" en tiempo real del servidor, sabiendo exactamente
+cómo se están usando recursos como la memoria o el almacenamiento antes de que ocurra un colapso. Esta claridad operativa
+te ayuda a optimizar tus rutas y middlewares, previniendo caídas que dejarían a los usuarios desconectados. 
+En el fondo, administrar con estos datos te da la tranquilidad y el control técnico necesarios para asegurar que 
+la plataforma comunitaria sea siempre confiable, estable y segura para todos.

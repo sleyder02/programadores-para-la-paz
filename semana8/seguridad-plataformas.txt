@@ -1,0 +1,10 @@
+Escribe 5 prácticas de seguridad que deberían aplicarse en una plataforma digital comunitaria, por ejemplo: 
+
+. Limitar el acceso a información sensible mediante Roles (Autorización).
+. Proteger credenciales mediante el uso de Variables de Entorno (.env).
+. Aplicar la Minimización de Datos en las Respuestas de la API.
+- No exponer datos personales.
+- Proteger credenciales.
+- Usar conexiones seguras.
+- Registrar accesos.
+- Limitar acceso a información sensible.
