@@ -1,0 +1,18 @@
+Explica brevemente qué función cumple cada uno. Cada explicación debe tener 2 o 3 líneas:
+
+    Sistema operativo: Es la base invisible de hardware que administra los recursos físicos de la máquina, como la memoria RAM y 
+    el almacenamiento en disco. Su función es asignarle de forma segura la energía y el espacio necesarios al servidor para que pueda 
+    ejecutar el código y guardar las fotos de los reportes.
+
+    Node.js: entorno de ejecución que permite sacar a JavaScript del navegador web y correrlo directamente dentro del sistema operativo.
+    Actúa como el motor del backend, procesando de forma asíncrona todas las peticiones, la lógica de los datos y la comunicación de la 
+    plataforma comunitaria.
+
+    Aplicación server.js: Principalmente este es archivo dondo escribimos codigo para que se ejecute el servidor, sin este archivo 
+    no tenemos aplicasion.
+    Puerto: punto de conexión o "puerta digital" específica (como el puerto 3000) que el sistema operativo le asigna a tu servidor.
+    Su función es canalizar el tráfico de internet, garantizando que las solicitudes de los usuarios lleguen exactamente a tu aplicación de Express y no a otro programa.
+
+    Logs: Son los registros de texto e historial que el servidor genera en tiempo real para documentar todo lo que sucede en el sistema. Su función es clasificar los
+    eventos por niveles (INFO, WARN, ERROR) para que el administrador pueda diagnosticar fallos y auditar la salud técnica de la plataforma.
+

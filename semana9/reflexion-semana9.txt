@@ -1,0 +1,11 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen
+de manera estable y segura en un servidor?
+
+La estabilidad y la seguridad de un servidor son el soporte invisible de cualquier proceso de participación ciudadana;
+si la infraestructura falla, la voz de la comunidad se apaga. Una plataforma estable garantiza la continuidad operativa, 
+permitiendo que los vecinos reporten incidencias o debatan en tiempo real sin temor a que el sistema colapse y borre sus 
+datos en la memoria volátil. A su vez, la seguridad operativa protege la privacidad mediante el principio de mínimo privilegio 
+y el uso de variables de entorno, evitando que la identidad o ubicación de los usuarios queden expuestas a filtraciones o represalias.
+Cuando el backend responde con solidez y resguarda la información sensible, la tecnología deja de ser un ente ajeno y se transforma
+en un bien común confiable. En última instancia, un servidor bien administrado no es solo un éxito técnico, sino un acto de responsabilidad
+social que blinda la transparencia, fortalece la soberanía tecnológica y cultiva una confianza comunitaria duradera.
