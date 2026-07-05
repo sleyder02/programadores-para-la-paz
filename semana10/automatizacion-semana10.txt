@@ -1,0 +1,18 @@
+¿Qué evento activa el flujo?
+
+El flujo se activa mediante un nodo de tipo Webhook en n8n que escucha en tiempo real el evento: "Nuevo borrador de derecho de petición guardado en el sistema" por parte de un veedor.
+¿Qué mensaje se enviaría a Telegram?
+
+Se configurará un nodo de Telegram Bot para enviar el siguiente mensaje al canal privado del equipo de veeduría:
+
+     Alerta de Veeduría: Se ha registrado un nuevo borrador de solicitud en la plataforma. Por favor, ingresar a ClickUp para revisar los hechos, editar el documento y priorizar su revisión jurídica antes de la radicación.
+
+¿Qué información no debería enviarse por seguridad?
+
+Por estrictas razones de privacidad, seguridad y protección de datos, nunca debe viajar en el mensaje de Telegram:
+
+    Nombres completos, cédulas o documentos de identidad de los ciudadanos afectados.
+
+    Direcciones exactas de residencia, números telefónicos o correos electrónicos.
+
+    Contraseñas, tokens de acceso o detalles específicos de la vulnerabilidad denunciada que puedan exponer a la comunidad.

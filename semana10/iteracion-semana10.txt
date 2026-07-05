@@ -1,0 +1,22 @@
+Las 2 tareas prioritarias del backlog
+
+    Como ciudadano quiero registrar una incidencia.
+
+    Como coordinador comunitario quiero recibir una alerta en Telegram.
+
+    ¿Por qué son las más importantes?
+
+Porque sin el registro de la incidencia por parte del 
+ciudadano no existe materia prima sobre la cual trabajar, y sin la alerta inmediata al coordinador el caso quedaría 
+estancado en el sistema, retrasando la capacidad de respuesta y el control territorial.
+
+Definición de "Terminado" (Definition of Done)
+
+Para mí, una tarea está "terminada" cuando ha cumplido con el ciclo completo de calidad y seguridad, garantizando que el valor ya está disponible de forma estable y transparente para la comunidad.
+Criterios de aceptación:
+
+    Funciona y es segura: El código cumple el objetivo sin romper el sistema, validando accesos y protegiendo los datos de la comunidad en las rutas correspondientes.
+
+    Fue probada localmente (Modo Mock): Se verificó el flujo completo simulando datos para asegurar que no genere errores en producción.
+
+    Quedó documentada y en producción: El código fue subido a GIT, las variables de entorno están protegidas y el despliegue fue monitoreado exitosamente en el servidor.

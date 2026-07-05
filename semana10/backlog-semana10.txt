@@ -1,0 +1,7 @@
+Como veedor ciudadano quiero actualizar el estado de un reporte para informar el avance del caso.
+
+Como ciudadano quiero registrar una incidencia para dejar evidencia de un caso de infraestructura en el territorio.
+
+Como coordinador comunitario quiero recibir una alerta en Telegram para revisar y priorizar un nuevo reporte de veeduría.
+
+Como líder del equipo quiero consultar y editar borradores de solicitudes para hacer el debido seguimiento jurídico.
