@@ -1,0 +1,22 @@
+Entidad: Reporte_Incidencia
+Campos principales:
+
+id_reporte
+titulo
+descripcion_hechos
+categoria
+estado
+fecha_creacion
+
+2. Entidad: Solicitud_Juridica
+Campos principales:
+
+id_solicitud
+id_reporte
+tipo_documento
+enlace_documento_editable
+estado_revision
+
+Propósito de la información: Controlar la trazabilidad de los documentos jurídicos generados a partir de los reportes, 
+asegurando que pasen por la debida revisión y asignación de roles antes de su implementación definitiva, protegiendo 
+los datos sensibles.

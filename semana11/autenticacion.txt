@@ -1,0 +1,7 @@
+El login es la puerta de acceso que identifica y autentica a un usuario para otorgarle permisos específicos según su rol 
+dentro de la aplicación. Es fundamental que ciertas rutas estén protegidas porque resguardan operaciones internas, 
+bases de datos o paneles de gestión que, de ser públicos, vulnerarían la seguridad del sistema y el control territorial. 
+Por ello, bajo ninguna circunstancia se debe exponer públicamente información sensible como contraseñas, tokens de acceso, 
+claves de API, documentos de identidad ni datos personales de los ciudadanos. Blindar estas rutas garantiza que la 
+plataforma comunitaria sea un entorno confiable, donde la tecnología se use con total responsabilidad para proteger la 
+privacidad de la comunidad.

@@ -1,0 +1,9 @@
+La interfaz web presentaría un diseño limpio y enfocado, estructurado en tres secciones principales:
+
+    Formulario de Registro: Una sección superior para crear una nueva causa comunitaria, que incluye campos simples de texto para el título, la descripción de la problemática y la categoría del territorio.
+
+    Vista de Causas Disponibles: Un tablero central que despliega las causas activas en tarjetas independientes y legibles, permitiendo a los veedores y ciudadanos consultar las necesidades del backlog en tiempo real.
+
+    Interacción Comunitaria: Cada tarjeta incluye un contador de apoyos visible y un botón para apoyar la causa, lo que permite medir el impacto y priorizar de forma colectiva los casos más urgentes.
+
+Toda la interfaz mantiene un diseño transparente y claro, limitando la visualización a datos públicos de control social y ocultando de manera estricta cualquier información privada o dato sensible de los usuarios.
