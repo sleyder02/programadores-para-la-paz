@@ -1,0 +1,8 @@
+FLUJO.
+
+1. Un ciudadano inicia una nueva petición.
+2. La petición queda registrada en la base de datos.
+3. Otros ciudadanos ingresan para apoyar la petición.
+4. El sistema suma los apoyos recibidos.
+5. El sistema genera un archivo de Word-PDF listo para descargar
+y presentar ante cualquiera entidad.

@@ -1,0 +1,12 @@
+¿Qué aprendiste durante el curso sobre el uso de la tecnología para fortalecer la participación ciudadana y 
+la organización comunitaria?
+
+Durante este curso comprendí que la tecnología con impacto social no debe reemplazar la organización comunitaria, 
+sino actuar como un catalizador que simplifica los procesos de exigibilidad democrática. Herramientas como Petición
+en 3 Clics demuestran que la innovación técnica (usando Git, GitHub y Node.js) solo es útil si responde a 
+necesidades reales del territorio, aliviando la carga de los líderes mediante automatizaciones eficientes y 
+seguras con n8n y Telegram. 
+No obstante, el aprendizaje más crucial es que la viabilidad técnica debe ir de la 
+mano con la responsabilidad ética: la confianza de la comunidad se construye y protege resguardando estrictamente 
+sus datos personales y garantizando su seguridad digital.
+Gracias a todos los docentes y tutuores por este valioso curso.

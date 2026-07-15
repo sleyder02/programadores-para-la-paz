@@ -1,0 +1,7 @@
+Ejemplo de automatización: Meta de apoyos alcanzada
+
+    Evento: Una causa alcanza el 100% de la meta de apoyos configurada.
+
+    Mensaje: "¡Meta alcanzada! La causa '[Título de la causa]' ha completado sus apoyos requeridos. El documento de petición en Word ya está listo para ser descargado y radicado."
+
+    Información que no debe enviarse: El listado de nombres, correos electrónicos, firmas o cualquier dato de identificación de los ciudadanos que apoyaron la causa.

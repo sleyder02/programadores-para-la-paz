@@ -1,0 +1,21 @@
+Causa
+id
+titulo
+descripcion
+fecha
+Meta_apoyo
+estado
+
+Apoyo
+id
+causa_id
+nombre
+fecha
+email
+Representa el problema comunitario o iniciativa que se quiere solucionar. Sirve para registrar el "qué" 
+(el título y la descripción del reclamo), el "cuándo" (fecha de creación) y el "cuánto" (la meta de firmas 
+necesarias y si la petición ya está activa o completada).
+
+Representa la firma o respaldo de un ciudadano a una causa específica. Sirve para registrar de manera segura
+quién apoya (nombre y correo para validar que sea real) y asociar ese respaldo directamente a la causa 
+correspondiente a través de su causa_id.
